@@ -20,3 +20,7 @@ A
 coverage/base.css,e\2\e2e559acd417a07754dcc42957b587cc300e7796
 A
 package-lock.json,f\a\fa288d1472d29beccb489a676f68739ad365fc47
+I
+src/routes/+layout.svelte,5\7\57bd45b2d1884d7c824dd9391c6e95fe5ea8b351
+E
+src/routes/+layout.ts,b\a\ba2adaaa5f2611ad025449769fdbd23277e7592d

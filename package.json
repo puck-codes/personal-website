@@ -51,6 +51,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@vercel/speed-insights": "^1.0.4",
 		"nyc": "^15.1.0"
 	}
 }
