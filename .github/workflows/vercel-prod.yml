@@ -10,11 +10,9 @@ on:
       - 'master'
 
 jobs:
-
   Testing:
     runs-on: ubuntu-latest
     steps:
-
       - name: Get code from repository
         uses: actions/checkout@v3
 
@@ -27,7 +25,6 @@ jobs:
     needs: Testing
     runs-on: ubuntu-latest
     steps:
-
       - name: Get code from repository
         uses: actions/checkout@v3
 
