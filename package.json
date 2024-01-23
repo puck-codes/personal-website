@@ -54,6 +54,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-node": "^4.0.1",
 		"@vercel/speed-insights": "^1.0.4",
 		"modern-normalize": "^2.0.0"
 	}
